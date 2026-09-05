@@ -17,6 +17,7 @@ const ModelViewerModal = ({ dish, onClose }) => {
         </button>
         <model-viewer
           src={dish.model}
+          ios-src={dish.modelIOS}
           ar
           ar-modes="webxr scene-viewer quick-look"
           camera-controls
