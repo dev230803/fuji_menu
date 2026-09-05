@@ -7,8 +7,7 @@ import ClassicPork from "../Images/classic_pork.png";
 
 const restaurantData = {
   meta: {
-    name: "Mount Fuji Japanese Pan Asian Restaurant & Bar", //[cite: 13]
-    
+    name: "Mount Fuji Japanese Pan Asian Restaurant & Bar", //[cite: 13]    
     description: "Authentic Pan-Asian & Japanese Delicacies",
     location: {
       address: "Connaught Place (CP)", //[cite: 13]
@@ -384,8 +383,7 @@ const restaurantData = {
       nutrition: { protein: 24, carbs: 38, fat: 15 },
       tasteProfile: { comparisonText: "Melt-in-mouth raw salmon with a fiery kick.", spiceLevel: 4, flavors: { spicy: 4, sweet: 1, sour: 1, savory: 4 }, textureTags: ["Creamy", "Soft"] },
       quantity: "8 pieces", bestseller: true, veg: false, image: SpicySalmon,
-      model: "/models/compressed_salmon_sushi.glb",
-      modelIOS: "/models/salmon_sushi_usdz.glb" // [cite: 13]
+      model: "/models/compressed_salmon_sushi.glb" // [cite: 13]
     },
   ]
 };
