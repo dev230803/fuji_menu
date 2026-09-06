@@ -28,6 +28,7 @@ const CardTasteBack = ({ tasteProfile, dishName }) => {
     <div className="v2-card-taste-back">
       <h4 className="v2-card-taste-heading">Taste Profile</h4>
       <p className="v2-card-taste-text">{comparisonText}</p>
+      <h4 className="v2-card-taste-heading">Spice Level</h4>
       <SpiceDots level={spiceLevel} />
       {tags.length > 0 && (
         <div className="v2-card-taste-tags">
