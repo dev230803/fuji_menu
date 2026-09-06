@@ -44,6 +44,7 @@ const restaurantData = {
     },
   ],
   categories: [
+    {id: "bestsellers", name: "Bestsellers", image: SpicyRamen },
     { id: "poke-bowls", name: "Platters & Poke Bowls", image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400" }, //[cite: 13]
     { id: "soups", name: "Soups", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSh06ZxhumMSf3LwotuevnktGXCUWQGNzGzuNspvoQ1j9pK1JzppCODDs&s=10?w=400" }, //[cite: 13]
     { id: "salads", name: "Salads", image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400" }, //[cite: 13]
