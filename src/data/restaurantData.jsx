@@ -45,7 +45,7 @@ const restaurantData = {
   ],
   categories: [
     { id: "poke-bowls", name: "Platters & Poke Bowls", image: "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400" }, //[cite: 13]
-    { id: "soups", name: "Soups", image: "https://images.unsplash.com/photo-1548943487-a2e4b43b4850?w=400" }, //[cite: 13]
+    { id: "soups", name: "Soups", image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSh06ZxhumMSf3LwotuevnktGXCUWQGNzGzuNspvoQ1j9pK1JzppCODDs&s=10?w=400" }, //[cite: 13]
     { id: "salads", name: "Salads", image: "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400" }, //[cite: 13]
     { id: "veg-starters", name: "Veg Starters", image: "https://images.unsplash.com/photo-1541696432-82c6da8ce7bf?w=400" }, //[cite: 13]
     { id: "non-veg-starters", name: "Non Veg Starters", image: "https://images.unsplash.com/photo-1525755662778-989d0524087e?w=400" }, //[cite: 13]
@@ -54,7 +54,7 @@ const restaurantData = {
     { id: "ramen", name: "Ramen Bowls", image: "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=400" }, //[cite: 13]
     { id: "main-course", name: "Main Course", image: "https://images.unsplash.com/photo-1512058564366-18510be2db19?w=400" }, //[cite: 13]
     { id: "rice-noodles", name: "Fried Rice & Noodles", image: "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=400" }, //[cite: 13]
-    { id: "desserts", name: "Desserts", image: "https://images.unsplash.com/photo-1505253758473-96b3015f21c9?w=400" } //[cite: 13]
+    { id: "desserts", name: "Desserts", image: "https://www.google.com/search?sca_esv=724bf23b4d8e06a3&rlz=1C1GCEA_enIN1202IN1202&sxsrf=APpeQnvBsgtfpIvimigCs6lm3eUj0L57YQ:1788692422122&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4Cf5myqN1hDgq5iFir0I5BaQ3cv93oNug6lbRhbr6sDyl2VqOQsqHyl4F-PHpUfOiIzpRGxWXae3UdRJbmQ0VRHKTeaAEFTu45ynBH8C6Z2ux0-j1gzMtP19etBKKnZaXkfEElN8F5q7JTqpmCitomtxSmrC4oxVMUsXMQqjm3IdHfjm5A&q=matcha+cheesecake&sa=X&ved=2ahUKEwib_brD5tmWAxUf1zgGHbkQFMUQtKgLegQIGBAB&biw=1280&bih=551&dpr=1.5#ip=1&sv=CAMSURoyKhBlLTQ3bmJDYjlSeWRWUE5NMg40N25iQ2I5UnlkVlBOTToOTDh0U2t6TUNFNGxjME0gBCoXCgFzEhBlLTQ3bmJDYjlSeWRWUE5NGAEwARgHIKPGoZgISggQARgBIAEoAQ?w=400" } //[cite: 13]
   ],
 
   dishes: [
@@ -374,7 +374,7 @@ const restaurantData = {
       description: "Rich cheesecake infused with premium earthy matcha.",
       nutrition: { protein: 6, carbs: 35, fat: 22 },
       tasteProfile: { comparisonText: "Earthy, slightly bitter matcha balancing rich cream cheese.", spiceLevel: 0, flavors: { spicy: 0, sweet: 3, sour: 1, savory: 2 }, textureTags: ["Creamy", "Soft"] },
-      quantity: "1 slice", bestseller: false, veg: true, image: "https://images.unsplash.com/photo-1505253758473-96b3015f21c9?w=600"
+      quantity: "1 slice", bestseller: false, veg: true, image: "https://www.google.com/search?sca_esv=724bf23b4d8e06a3&rlz=1C1GCEA_enIN1202IN1202&sxsrf=APpeQnvBsgtfpIvimigCs6lm3eUj0L57YQ:1788692422122&udm=2&fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cqu7ocb7U6ah0xpkIrGMK4Cf5myqN1hDgq5iFir0I5BaQ3cv93oNug6lbRhbr6sDyl2VqOQsqHyl4F-PHpUfOiIzpRGxWXae3UdRJbmQ0VRHKTeaAEFTu45ynBH8C6Z2ux0-j1gzMtP19etBKKnZaXkfEElN8F5q7JTqpmCitomtxSmrC4oxVMUsXMQqjm3IdHfjm5A&q=matcha+cheesecake&sa=X&ved=2ahUKEwib_brD5tmWAxUf1zgGHbkQFMUQtKgLegQIGBAB&biw=1280&bih=551&dpr=1.5#ip=1&sv=CAMSURoyKhBlLTQ3bmJDYjlSeWRWUE5NMg40N25iQ2I5UnlkVlBOTToOTDh0U2t6TUNFNGxjME0gBCoXCgFzEhBlLTQ3bmJDYjlSeWRWUE5NGAEwARgHIKPGoZgISggQARgBIAEoAQ?w=600"
     },
     {
       id: "spicy-salmon-sushi",
