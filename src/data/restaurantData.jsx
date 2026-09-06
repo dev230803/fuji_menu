@@ -67,7 +67,8 @@ const restaurantData = {
       nutrition: { protein: 12, carbs: 65, fat: 14 },
       tasteProfile: { comparisonText: "Intense chili oil heat with chewy noodles.", spiceLevel: 5, flavors: { spicy: 5, sweet: 1, sour: 2, savory: 4 }, textureTags: ["Chewy", "Juicy"] },
       quantity: "1 bowl", bestseller: true, veg: true, image: SpicyRamen,
-      model: "/models/compressed_Ramen.glb", // [cite: 13]
+      model: "/models/compressed_Ramen.glb",
+      modelIos: "/models/Spicy_Ramen.usdz" // [cite: 13]
     },
     // --- POKE BOWLS ---
     {
@@ -295,7 +296,8 @@ const restaurantData = {
       nutrition: { protein: 35, carbs: 55, fat: 28 },
       tasteProfile: { comparisonText: "Deeply savory and hearty.", spiceLevel: 1, flavors: { spicy: 1, sweet: 1, sour: 1, savory: 5 }, textureTags: ["Soft", "Juicy", "Chewy"] },
       quantity: "1 bowl", bestseller: true, veg: false, image: ClassicPork,
-      model: "/models/compressed_Classic_Pork.glb", // [cite: 13]
+      model: "/models/compressed_Classic_Pork.glb",
+      modelIOS: "/models/Classic_Pork.usdz" // [cite: 13]
     },
     
     {
